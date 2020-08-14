@@ -1,4 +1,7 @@
 # vm2-require-resolve-issue
+## Related issue
+https://github.com/patriksimek/vm2/issues/317
+
 
 ## Steps to reproduce
 `npm install`
